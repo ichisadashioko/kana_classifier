@@ -1,0 +1,14 @@
+ETL1/ETL1C_05 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1INFO filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_01 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_02 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_08 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_09 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_12 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_13 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_03 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_04 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_06 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_07 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_10 filter=lfs diff=lfs merge=lfs -text
+ETL1/ETL1C_11 filter=lfs diff=lfs merge=lfs -text
