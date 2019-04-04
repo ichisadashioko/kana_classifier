@@ -18,7 +18,7 @@ def compile_etl_datasets():
 
     label_names = sorted(
         item.name for item in data_root.glob('*/') if item.is_dir())
-    label_to_index = dic((name, index)
+    label_to_index = dict((name, index)
                          for index, name in enumerate(label_names))
 
     all_image_labels = [label_to_index[pathlib.Path(path).parent.name]
